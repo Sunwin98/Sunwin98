@@ -1,0 +1,21 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI workflow strip</title>
+  <desc id="desc">Dark minimal icons representing AI workflow</desc>
+  <rect width="1200" height="170" rx="24" fill="#0D1117"/>
+  <rect x="24" y="24" width="1152" height="122" rx="18" fill="#0F141B" stroke="#1F2937"/>
+  <text x="72" y="68" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AI Workflow</text>
+  <text x="72" y="96" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Research, generation, iteration, and refinement</text>
+  <circle cx="700" cy="84" r="28" fill="#111827" stroke="#334155"/>
+  <path d="M700 64L706 78L720 84L706 90L700 104L694 90L680 84L694 78L700 64Z" fill="#E2E8F0"/>
+  <circle cx="820" cy="84" r="28" fill="#111827" stroke="#334155"/>
+  <path d="M820 66C830 66 838 74 838 84C838 94 830 102 820 102C810 102 802 94 802 84C802 74 810 66 820 66Z" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M811 84H829" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M820 75V93" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="940" cy="84" r="28" fill="#111827" stroke="#334155"/>
+  <path d="M926 76C926 71.582 929.582 68 934 68H946C950.418 68 954 71.582 954 76V92C954 96.418 950.418 100 946 100H934C929.582 100 926 96.418 926 92V76Z" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M934 76L946 92" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M946 76L934 92" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="678" y="128" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Generate</text>
+  <text x="804" y="128" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Review</text>
+  <text x="927" y="128" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Refine</text>
+</svg>

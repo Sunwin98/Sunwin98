@@ -1,0 +1,30 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bright / Sunwin98 dark banner</title>
+  <desc id="desc">Minimal dark banner for GitHub profile</desc>
+  <rect width="1200" height="280" rx="24" fill="#0D1117"/>
+  <rect x="24" y="24" width="1152" height="232" rx="18" fill="#0F141B" stroke="#1F2937"/>
+  <path d="M72 72H1128" stroke="#202938" stroke-width="1"/>
+  <path d="M72 208H1128" stroke="#202938" stroke-width="1"/>
+  <path d="M420 48V232" stroke="#18202C" stroke-width="1"/>
+  <path d="M880 48V232" stroke="#18202C" stroke-width="1"/>
+  <circle cx="120" cy="140" r="34" fill="#121A24" stroke="#293548"/>
+  <circle cx="120" cy="140" r="8" fill="#E5E7EB"/>
+  <circle cx="120" cy="140" r="20" stroke="#475569" stroke-width="1.5"/>
+  <rect x="104" y="178" width="32" height="4" rx="2" fill="#64748B"/>
+  <rect x="470" y="104" width="260" height="10" rx="5" fill="#F8FAFC" fill-opacity="0.95"/>
+  <rect x="470" y="128" width="210" height="6" rx="3" fill="#94A3B8"/>
+  <rect x="470" y="148" width="330" height="6" rx="3" fill="#64748B"/>
+  <rect x="470" y="188" width="118" height="26" rx="13" fill="#111827" stroke="#334155"/>
+  <rect x="602" y="188" width="140" height="26" rx="13" fill="#111827" stroke="#334155"/>
+  <rect x="756" y="188" width="168" height="26" rx="13" fill="#111827" stroke="#334155"/>
+  <text x="470" y="96" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Bright / Sunwin98</text>
+  <text x="470" y="170" fill="#A5B4C3" font-family="Segoe UI, Arial, sans-serif" font-size="17">Minecraft Bedrock developer · Node.js · Web tooling · AI-assisted workflows</text>
+  <text x="493" y="206" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Minecraft</text>
+  <text x="632" y="206" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Engineering</text>
+  <text x="786" y="206" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">AI Workflow</text>
+  <rect x="995" y="94" width="106" height="106" rx="22" fill="#10161F" stroke="#253041"/>
+  <path d="M1048 118L1066 132V162L1048 176L1030 162V132L1048 118Z" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M1048 132V162" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M1030 132L1048 144L1066 132" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="1040" y="208" width="16" height="4" rx="2" fill="#475569"/>
+</svg>
