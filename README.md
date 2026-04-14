@@ -20,10 +20,10 @@
 
 <br>
 
-![Claude](assets\claude.svg)
-![Gemini](assets\googlegemini.svg)
-![ChatGPT](assets\openai.svg)
-![GitHub Copilot](assets\githubcopilot.svg)
+<img src="assets/icon-claude.svg" width="50" height="50" alt="Claude" />&nbsp;
+<img src="assets/icon-gemini.svg" width="50" height="50" alt="Gemini" />&nbsp;
+<img src="assets/icon-openai.svg" width="50" height="50" alt="OpenAI" />&nbsp;
+<img src="assets/icon-copilot.svg" width="50" height="50" alt="GitHub Copilot" />
 
 <br><br>
 
