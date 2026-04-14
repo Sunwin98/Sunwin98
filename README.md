@@ -31,7 +31,7 @@
 <sub>HTML · CSS · JavaScript</sub>
 </td>
 <td align="center" width="200">
-<img src="assets/minecraft.svg" width="48"/><br>
+<img src="assets/minecraft-svgrepo-com.svg" width="48"/><br>
 <sub><b>Game Add-ons</b></sub><br>
 <sub>Minecraft Bedrock</sub>
 </td>
