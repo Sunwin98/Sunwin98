@@ -20,10 +20,10 @@
 
 <br>
 
-<a href="#"><img src="assets/icon-claude.svg" width="48" alt="Claude" /></a>&nbsp;&nbsp;
-<a href="#"><img src="assets/icon-gemini.svg" width="48" alt="Gemini" /></a>&nbsp;&nbsp;
-<a href="#"><img src="assets/icon-openai.svg" width="48" alt="OpenAI / ChatGPT" /></a>&nbsp;&nbsp;
-<a href="#"><img src="assets/icon-copilot.svg" width="48" alt="GitHub Copilot" /></a>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 <br><br>
 
