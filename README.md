@@ -31,14 +31,6 @@
 
 </div>
 
-### Featured
-
-**[Heaven Send Studio](https://github.com/Sunwin98/H-e-a-v-e-n-S-e-n-d)** — Web platform for Minecraft Bedrock addon creation. Skin converter · Pack merger · Skill builder · Addon packager
-
-`Node.js` &nbsp; `Vanilla JS` &nbsp; `Minecraft Bedrock` &nbsp; `i18n`
-
----
-
 <div align="center">
 
 <sub>© 2026 Bright · Sunwin98</sub>
